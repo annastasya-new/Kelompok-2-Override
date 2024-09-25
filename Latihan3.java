@@ -1,3 +1,12 @@
+/* Nama kelompok :
+    1. Moohamad Faiz Ramdhani 
+    2. Wina Tri Asih
+    3. Edgina Rangga Arkananta 
+    4.Amanda Titania Putri
+    5. Annastasya Nabila Elsa W
+    6. Setiawan
+    7. Annisya 
+    */
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
